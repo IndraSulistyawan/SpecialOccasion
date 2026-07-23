@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Special Occasion"
+version = "1.0.0"
+id = "artifacts/special-occasion"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24013
+
+[services.development]
+run = "pnpm --filter @workspace/special-occasion run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/special-occasion", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/special-occasion/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24013"
+BASE_PATH = "/"
