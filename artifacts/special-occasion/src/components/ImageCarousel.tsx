@@ -2,37 +2,49 @@ import { useCallback, useEffect, useState } from 'react';
 import useEmblaCarousel from 'embla-carousel-react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import cakeImg from '@assets/slide1_custom.jpg';
-import champagneImg from '@assets/generated_images/champagne.jpg';
-import flowersImg from '@assets/generated_images/flowers.jpg';
-import bokehImg from '@assets/generated_images/bokeh.jpg';
-import sunsetImg from '@assets/generated_images/sunset.jpg';
+import slide1Img from '@assets/slide1_custom.jpg';
+import slide2Img from '@assets/slide2_custom.jpg';
+import slide3Img from '@assets/slide3_custom.jpg';
+import slide4Img from '@assets/slide4_custom.jpg';
+import slide5Img from '@assets/slide5_custom.jpg';
+import slide6Img from '@assets/slide6_custom.jpg';
+import slide7Img from '@assets/slide7_custom.jpg';
 
 const SLIDES = [
   {
-    image: cakeImg,
+    image: slide1Img,
     caption: 'A moment to celebrate you',
-    alt: 'Birthday cake with candles'
+    alt: 'Slide 1'
   },
   {
-    image: champagneImg,
+    image: slide2Img,
     caption: 'To many more beautiful memories',
-    alt: 'Champagne glasses clinking'
+    alt: 'Slide 2'
   },
   {
-    image: flowersImg,
+    image: slide3Img,
     caption: 'Grace, elegance, and beauty',
-    alt: 'Bouquet of roses'
+    alt: 'Slide 3'
   },
   {
-    image: bokehImg,
+    image: slide4Img,
     caption: 'Bringing light into every room',
-    alt: 'Warm bokeh lights'
+    alt: 'Slide 4'
   },
   {
-    image: sunsetImg,
+    image: slide5Img,
     caption: 'A breathtaking view, just like you',
-    alt: 'Sunset landscape'
+    alt: 'Slide 5'
+  },
+  {
+    image: slide6Img,
+    caption: 'moment nonton moana yang bikin ina nangiss',
+    alt: 'Slide 6'
+  },
+  {
+    image: slide7Img,
+    caption: 'photobooth keduanya di MBG',
+    alt: 'Slide 7'
   }
 ];
 
