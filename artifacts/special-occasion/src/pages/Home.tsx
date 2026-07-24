@@ -78,7 +78,7 @@ export function Home() {
               </motion.span>
             </h1>
             <p className="font-sans text-muted-foreground text-lg sm:text-xl max-w-2xl mx-auto font-light leading-relaxed">
-              Every day with you is a beautiful adventure. Today, we pause to celebrate the incredible person you are, and the wonderful journey we share.
+              Alooooo MBG (my beautiful girl), cantiku cintaku, my baby honey sweeetie lovely, jadiii jeda sebentar ya buat liat kayak flashback mungkin yaaa hehe, jdi ini buat special person (katanyaaa)
             </p>
           </motion.div>
         </header>
