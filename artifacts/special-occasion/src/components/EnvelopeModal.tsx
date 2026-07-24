@@ -62,7 +62,7 @@ export function EnvelopeModal({ onOpen }: EnvelopeModalProps) {
               </h2>
               
               <p className="text-muted-foreground mb-10 leading-relaxed font-sans text-sm sm:text-base">
-                A small kecil persembahan untuk kanjeng ratu tercinta, yang cantinaaa maha dahsyatt
+                sebuah persembahan kecil untuk kanjeng ratu tercinta, yang cantinaaa maha dahsyatt
               </p>
               
               <button
