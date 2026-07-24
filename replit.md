@@ -1,6 +1,6 @@
-# [Project name]
+# Special Occasion
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A personal celebration web app — a heartfelt tribute page with an envelope opening animation and photo carousel.
 
 ## Run & Operate
 
