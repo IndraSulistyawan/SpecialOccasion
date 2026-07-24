@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from 'react';
 import useEmblaCarousel from 'embla-carousel-react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import cakeImg from '@assets/generated_images/cake.jpg';
+import cakeImg from '@assets/slide1_custom.jpg';
 import champagneImg from '@assets/generated_images/champagne.jpg';
 import flowersImg from '@assets/generated_images/flowers.jpg';
 import bokehImg from '@assets/generated_images/bokeh.jpg';
