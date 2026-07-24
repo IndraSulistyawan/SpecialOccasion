@@ -62,7 +62,7 @@ export function EnvelopeModal({ onOpen }: EnvelopeModalProps) {
               </h2>
               
               <p className="text-muted-foreground mb-10 leading-relaxed font-sans text-sm sm:text-base">
-                A small token of appreciation, a celebration of you, and a reminder of all the beautiful moments we share.
+                A small kecil persembahan untuk kanjeng ratu tercinta, yang cantinaaa maha dahsyatt
               </p>
               
               <button
@@ -70,7 +70,7 @@ export function EnvelopeModal({ onOpen }: EnvelopeModalProps) {
                 disabled={isOpen}
                 className="group relative inline-flex items-center justify-center px-8 py-3 bg-primary text-primary-foreground font-medium rounded-full overflow-hidden transition-all hover:scale-105 active:scale-95 disabled:pointer-events-none disabled:opacity-80"
               >
-                <span className="relative z-10 font-sans uppercase tracking-widest text-xs">Open Your Gift</span>
+                <span className="relative z-10 font-sans uppercase tracking-widest text-xs">LIAAAATTT</span>
                 <div className="absolute inset-0 h-full w-full bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-in-out" />
               </button>
             </motion.div>
