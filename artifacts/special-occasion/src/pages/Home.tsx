@@ -118,7 +118,7 @@ export function Home() {
             className="mb-24"
           >
             <h3 className="font-serif text-3xl text-center mb-12 text-foreground">
-              Things I Love About You
+              Hall yang aku suka tapi ina Enggak
             </h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
