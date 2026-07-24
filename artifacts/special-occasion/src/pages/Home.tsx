@@ -57,17 +57,16 @@ export function Home() {
             <h4 className="font-sans uppercase tracking-[0.2em] text-primary/80 text-sm mb-4">A Celebration</h4>
             <h1 className="font-serif text-5xl sm:text-6xl md:text-7xl text-foreground font-medium mb-6 tracking-tight">
               Happy{" "}
-              <span className="relative inline-block">
+              <span className="relative inline-block text-primary">
                 <span>girlfriends</span>
                 <motion.span
-                  className="absolute left-0 top-1/2 h-[3px] bg-foreground rounded-full"
+                  className="absolute left-0 top-1/2 h-[3px] bg-primary rounded-full"
                   style={{ width: "100%", transformOrigin: "left", translateY: "-50%" }}
                   initial={{ scaleX: 0 }}
                   animate={{ scaleX: modalDismissed ? 1 : 0 }}
                   transition={{ duration: 0.7, delay: 2.2, ease: "easeInOut" }}
                 />
-              </span>{" "}
-              day
+              </span>
               <br />
               <motion.span
                 className="text-primary"
@@ -75,7 +74,7 @@ export function Home() {
                 animate={{ opacity: modalDismissed ? 1 : 0, y: modalDismissed ? 0 : 14 }}
                 transition={{ duration: 0.8, delay: 3.2 }}
               >
-                Just Friends
+                Just Friends day
               </motion.span>
             </h1>
             <p className="font-sans text-muted-foreground text-lg sm:text-xl max-w-2xl mx-auto font-light leading-relaxed">
