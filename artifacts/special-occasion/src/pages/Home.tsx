@@ -78,7 +78,7 @@ export function Home() {
               </motion.span>
             </h1>
             <p className="font-sans text-muted-foreground text-lg sm:text-xl max-w-2xl mx-auto font-light leading-relaxed">
-              Alooooo MBG (my beautiful girl), cantiku cintaku, my baby honey sweeetie lovely, jadiii jeda sebentar ya buat liat kayak flashback mungkin yaaa hehe, jdi ini buat special person (katanyaaa)
+              Alooooo MBG (my beautiful girl), cantiku cintaku my baby honey sweeetie lovely, jadi ini adalahh websitee speciall buat inaaa, maybe yaaa ga bagusss (karena dikit waktunyaaa), but moga inaa sukaaa, jdii ini kayak flashback gtuuuu, silahkann
             </p>
           </motion.div>
         </header>
