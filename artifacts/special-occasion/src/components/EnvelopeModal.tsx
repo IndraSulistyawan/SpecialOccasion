@@ -58,7 +58,7 @@ export function EnvelopeModal({ onOpen }: EnvelopeModalProps) {
               <Heart className="w-10 h-10 mx-auto text-primary mb-6" strokeWidth={1.5} />
               
               <h2 className="font-serif text-3xl sm:text-4xl font-medium text-foreground mb-4 leading-tight">
-                For Someone <br/> Truly Special
+                For Inaaaaaa lop
               </h2>
               
               <p className="text-muted-foreground mb-10 leading-relaxed font-sans text-sm sm:text-base">
