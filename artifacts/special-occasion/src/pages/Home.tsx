@@ -56,9 +56,9 @@ export function Home() {
           >
             <h4 className="font-sans uppercase tracking-[0.2em] text-primary/80 text-sm mb-4">A Celebration</h4>
             <h1 className="font-serif text-5xl sm:text-6xl md:text-7xl text-foreground font-medium mb-6 tracking-tight">
-              Happy{" "}
+              <span className="text-primary">Happy</span>{" "}
               <span className="relative inline-block text-primary">
-                <span>girlfriends</span>
+                <span>Girlfriend Day</span>
                 <motion.span
                   className="absolute left-0 top-1/2 h-[3px] bg-primary rounded-full"
                   style={{ width: "100%", transformOrigin: "left", translateY: "-50%" }}
