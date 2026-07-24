@@ -103,12 +103,10 @@ export function Home() {
           >
             <Heart className="w-8 h-8 mx-auto text-primary/40 mb-8" />
             <p className="font-serif text-2xl sm:text-3xl text-foreground leading-relaxed font-normal mb-8">
-              "To love and be loved is to feel the sun from both sides."
+              "Gimaanaaaaa sukaa ndaaa hehee, maaf ya kalau msii jelekk, kalau ganteng kan sayaa"
             </p>
             <p className="font-sans text-muted-foreground leading-loose text-lg">
-              When I look back on all the memories we've created, I am overwhelmed with gratitude. 
-              You bring a certain kind of magic into the world that can't be replicated. 
-              This is just a small reminder of how deeply cherished you are, today and always.
+              makasii ya sudah datang ke kehidupankuu, kalau aku ada salaaah kasi tau yang bener, kalau ngerasa ngeganjell bilanngg ajaaa, aku pasti dengerinn koooooo, sekecewa nya tolong jangan pergii sebelum ngasi tauuuu yaaaawwww :(
             </p>
           </motion.section>
 

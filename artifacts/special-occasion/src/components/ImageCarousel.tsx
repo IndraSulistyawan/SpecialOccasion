@@ -9,31 +9,34 @@ import slide4Img from '@assets/slide4_custom.jpg';
 import slide5Img from '@assets/slide5_custom.jpg';
 import slide6Img from '@assets/slide6_custom.jpg';
 import slide7Img from '@assets/slide7_custom.jpg';
+import slide8Img from '@assets/slide8_custom.jpg';
+import slide9Img from '@assets/slide9_custom.jpg';
+import slide10Img from '@assets/slide10_custom.jpg';
 
 const SLIDES = [
   {
     image: slide1Img,
-    caption: 'A moment to celebrate you',
+    caption: 'pertama kaliii inaa ngasik Alpukat, gtw buat apa gajelas tibaa" ngasii',
     alt: 'Slide 1'
   },
   {
     image: slide2Img,
-    caption: 'To many more beautiful memories',
+    caption: 'Photobooth Pertama kitaaa',
     alt: 'Slide 2'
   },
   {
     image: slide3Img,
-    caption: 'Grace, elegance, and beauty',
+    caption: 'pertama kali olga bareng main bulutangkis, walaupun ina noob',
     alt: 'Slide 3'
   },
   {
     image: slide4Img,
-    caption: 'Bringing light into every room',
+    caption: 'main biang lala ketakutan awog"""',
     alt: 'Slide 4'
   },
   {
     image: slide5Img,
-    caption: 'A breathtaking view, just like you',
+    caption: 'Main pantee sambill deeptalk sama inaa, ini seruu siii',
     alt: 'Slide 5'
   },
   {
@@ -45,7 +48,22 @@ const SLIDES = [
     image: slide7Img,
     caption: 'photobooth keduanya di MBG',
     alt: 'Slide 7'
-  }
+  },
+  {
+    image: slide8Img,
+    caption: 'Pertama kali ngedate nonton samaaa orang cantiiikk',
+    alt: 'Slide 8'
+  },
+  {
+    image: slide9Img,
+    caption: 'ngajak maem sebelum nonton konserrr',
+    alt: 'Slide 9'
+  },
+  {
+    image: slide10Img,
+    caption: 'PhotoBooth terbaruu kitaaaaaaa',
+    alt: 'Slide 10'
+  },
 ];
 
 export function ImageCarousel() {
