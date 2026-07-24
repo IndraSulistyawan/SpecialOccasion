@@ -7,23 +7,23 @@ import { Heart, Sparkles, Star, Anchor } from 'lucide-react';
 const REASONS = [
   {
     icon: <Sparkles className="w-5 h-5" />,
-    title: "Your Radiance",
-    description: "The way you light up any room you enter. Your energy is contagious, and your smile is entirely unforgettable."
+    title: "Senyumnyaa Inaaa",
+    description: "Even Inaa mikir kalau senyum matanya ilang itu jelek, tapi justru itulah inaa yang paling cantik"
   },
   {
     icon: <Heart className="w-5 h-5" />,
-    title: "Your Warmth",
-    description: "The compassion and kindness you show to everyone around you. You have a heart of gold that makes everything better."
+    title: "Tengilnya inaaaa",
+    description: "Khe tu orangnya ga bisa diemm, but justru itu yang bikin inaa ngangenin."
   },
   {
     icon: <Star className="w-5 h-5" />,
-    title: "Your Spirit",
-    description: "The passion and determination you bring to your dreams. Watching you grow and shine is a true privilege."
+    title: "Si Yapping Princess",
+    description: "Yapp Yapp and yappinf nonstoop, tpi gabole stop ya ke akuu, jdi kangen ntrrrr."
   },
   {
     icon: <Anchor className="w-5 h-5" />,
-    title: "Your Presence",
-    description: "The comfort of just being near you. You make the ordinary moments feel extraordinary, and the quiet moments feel profound."
+    title: "Si Kanjeng Ratuu",
+    description: "Ratuu Marah baru ada, gpp suka koo ina marah, klo marah yang baikk tapi, kalo marah jelekk, iiii Takutttt."
   }
 ];
 
@@ -150,6 +150,7 @@ export function Home() {
             transition={{ duration: 1 }}
             className="text-center pb-20 border-t border-border pt-16 relative"
           >
+            <h3 className="font-serif text-3xl mb-4 text-foreground">Dah gitu aja </h3>
             <h3 className="font-serif text-3xl mb-4 text-foreground">Forever & Always</h3>
             <p className="font-sans text-muted-foreground mb-8">
               Here's to everything you are, and everything we will be.
